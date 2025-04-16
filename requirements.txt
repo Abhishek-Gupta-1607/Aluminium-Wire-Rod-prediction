@@ -1,0 +1,3 @@
+Flask
+numpy
+scikit-learn # Adjust based on your ML model library
